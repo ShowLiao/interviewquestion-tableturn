@@ -9,7 +9,6 @@ public class timecls {
 	}
 	
 	public static long getLCurrentTime() {
-//		System.out.println(mTime.toString());
 		return mTime.getTime();
 	}
 	
